@@ -6,7 +6,7 @@
 
 ## 📸 Demo
 
-
+[streamlit-app-2026-01-18-12-01-89.webm](https://github.com/user-attachments/assets/407402f3-0f85-42fe-982f-a3b07c98c035)
 
 ---
 
